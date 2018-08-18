@@ -1,9 +1,9 @@
 @artifact.package@class @artifact.name@ {
 
-  static constraints = {
-  }
+    static constraints = {
+    }
 
-  String toString(){
+    String toString(){
     // TODO: make me interesting
-  }
+    }
 }
